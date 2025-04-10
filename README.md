@@ -16,6 +16,10 @@
 🔧 Em constante evolução — aprendendo um pouco mais a cada commit!
  😄
 
+ # Experiência
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 # Me chame
 <div>
     <a href="https://instagram.com/antunespedrow" target="=_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
