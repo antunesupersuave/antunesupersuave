@@ -11,3 +11,7 @@
 
 🔧 Em constante evolução — aprendendo um pouco mais a cada commit!
  😄
+
+ [![antunesupersuave's GitHub stats](https://github-readme-stats.vercel.app/api?username=antunesupersuave)](https://github.com/antunesupersuave/github-readme-stats)
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antunesupersuave&show_icons=true&theme=radical)
