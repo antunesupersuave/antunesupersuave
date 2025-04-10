@@ -1,17 +1,13 @@
-## Bem vindo !!
+## Bem vindo !! 
 
 
-<!--
-**antunesupersuave/antunesupersuave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou um estudante do 2º ano do ensino médio, atualmente cursando Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Apaixonado por tecnologia, estou dando meus primeiros passos na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sempre buscando aprender mais sobre HTML, CSS, JavaScript, Python e tudo que envolve o mundo dev.
+
+📚 Atualmente focado em projetos escolares e praticando com pequenos desafios.
+
+🔧 Em constante evolução — aprendendo um pouco mais a cada commit!
+ 😄
