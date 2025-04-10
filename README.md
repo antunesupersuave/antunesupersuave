@@ -1,8 +1,10 @@
-## Bem vindo !! 
-<!-- Banner com GIF animado -->
+
+<!-- Badge azul de boas-vindas -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
+  <img src="https://img.shields.io/badge/Bem--vindo-ao%20meu%20perfil-blue?style=for-the-badge&logo=github" alt="Bem-vindo badge" />
 </p>
+<h2 align="center">Fala aí! Eu sou o Pedro Antunes — <a href="https://github.com/antunesupersuave">@antunesupersuave</a></h2>
+
 👋 Olá! Sou um estudante do 2º ano do ensino médio, atualmente cursando Desenvolvimento de Sistemas.
 
 💻 Apaixonado por tecnologia, estou dando meus primeiros passos na programação.
