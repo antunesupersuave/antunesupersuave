@@ -16,4 +16,12 @@
 🔧 Em constante evolução — aprendendo um pouco mais a cada commit!
  😄
 
+# Me chame
+<div>
+    <a href="https://instagram.com/antunespedrow" target="=_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+##
+
+</div>
+
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antunesupersuave&show_icons=true&theme=radical)
