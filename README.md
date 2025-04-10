@@ -15,7 +15,9 @@
 
 🔧 Em constante evolução — aprendendo um pouco mais a cada commit!
  😄
+## Visitantes 👀
 
+![Visitor Count](https://profile-counter.glitch.me/antunesupersuave/count.svg)
  # Experiência
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
